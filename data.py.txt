@@ -1,0 +1,6 @@
+import json
+
+dict = {'item_name': 'Reynolds Red Pen', 'quantity': 50}
+
+data = json.dumps(dict)
+print(data)
