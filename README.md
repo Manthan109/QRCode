@@ -1,3 +1,3 @@
 # QR Code
 
-Code powering the stamping machine
+Python code for scanning QR codes and barcodes.
